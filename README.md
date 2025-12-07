@@ -51,11 +51,11 @@ I'm an **AI Engineering student** at Mehran University of Engineering and Techno
 
 <div align="center">
   
-![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayyab-arshad118&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-arshad118&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-arshad118&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-arshad118&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-arshad118&theme=radical)
+[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayyab-arshad118&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -80,11 +80,6 @@ Modern, responsive website for software company offering services and internship
 Real-time scheduling tool for academic departments
 - **Tech Stack:** Node.js, MongoDB, HTML, CSS, JavaScript
 - **Features:** Real-time scheduling, Database management, User feedback integration
-
-### 🎮 [Rock Paper Scissors Game](https://github.com/Tayyab-arshad118/rock-paper-scissors)
-Interactive browser-based game with sound effects
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Sound effects, Score tracking, Responsive layout
 
 ### 🎙️ JARVIS – AI Virtual Assistant
 Voice-enabled assistant using Python and NLP
@@ -139,7 +134,7 @@ Voice-enabled assistant using Python and NLP
 
 <div align="center">
 
-### 💡 *"Building the future, one line of code at a time"*
+### *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tayyab-arshad118&color=brightgreen&style=flat-square)
 
