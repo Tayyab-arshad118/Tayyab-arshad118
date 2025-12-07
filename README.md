@@ -62,7 +62,7 @@ I'm an **AI Engineering student** at Mehran University of Engineering and Techno
 ## 🏆 Featured Projects
 
 ### 🤖 [SMS Spam Detection](https://tayyab-spam-busterr.streamlit.app/)
-Machine Learning-based SMS classifier with 97% accuracy using Multinomial Naive Bayes
+Machine Learning-based SMS classifier with 100% Precision using Multinomial Naive Bayes
 - **Tech Stack:** Python, Scikit-learn, Streamlit, NLTK
 - **Features:** Text preprocessing, TF-IDF vectorization, Real-time classification
 
