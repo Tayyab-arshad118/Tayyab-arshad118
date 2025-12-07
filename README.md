@@ -76,11 +76,6 @@ Modern, responsive website for software company offering services and internship
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Responsive design, Service showcase, Contact system
 
-### 📅 ClassLink – Department Scheduling System
-Real-time scheduling tool for academic departments
-- **Tech Stack:** Node.js, MongoDB, HTML, CSS, JavaScript
-- **Features:** Real-time scheduling, Database management, User feedback integration
-
 ### 🎙️ JARVIS – AI Virtual Assistant
 Voice-enabled assistant using Python and NLP
 - **Tech Stack:** Python, Speech Recognition, NLP
